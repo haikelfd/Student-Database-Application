@@ -37,7 +37,7 @@ public class student {
 		
 	}
 	
-	// Enroll courses
+	// Enroll courses  by student show balance 
 	
 	public void enroll() {
 		// Get inside a loop , user hits 0 
