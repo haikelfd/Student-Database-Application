@@ -37,8 +37,7 @@ public class student {
 		
 	}
 	
-	// Enroll courses  by student show balance 
-	
+	// Enroll courses  
 	public void enroll() {
 		// Get inside a loop , user hits 0 
 	   do {
@@ -57,7 +56,7 @@ public class student {
  	 }
 	// View balance 
 	 public void viewBalance(){
-		 System.out.println("Your balance is: $" + tuitionBalance );
+		 System.out.println("Your  balance is: $" + tuitionBalance );
 	 }
 	// Pay Tuition 
 	public void payTuition() {
